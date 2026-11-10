@@ -28,7 +28,8 @@ Blocked Ways is a 3D obstacle-course driving game with 40 levels, level selectio
 
 ![Obstacle-course gameplay](docs/gameplay.webp)
 
-<!-- gameplay video: Ghaleb adds it on GitHub -->
+
+https://github.com/user-attachments/assets/dbb274e5-928a-46e5-b8c3-7222beec274f
 
 ## Run it locally
 
